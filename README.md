@@ -1,16 +1,23 @@
 ## Hi there 👋
 
 <!--
-**carsenrae/carsenrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Carsen 👋  
+Data Analyst focused on turning messy data into clear insights
 
-Here are some ideas to get you started:
+🔍 Featured Project:
+NY Mental Health Expenditure Analysis (interactive map + EDA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠 Skills:
+SQL | Python | Pandas | Data Visualization
+
+Currently:
+I am working on a racetrack equine death analysis
+
+Pronouns:
+She/Her
+
+🌐 Portfolio: https://carsenraehelms.com/
+📊 Kaggle: https://www.kaggle.com/carsenhelms
+
+
 -->
