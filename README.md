@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 Hi, I’m Carsen 👋  
 Data Analyst focused on turning messy data into clear insights
 
@@ -18,6 +16,3 @@ She/Her
 
 🌐 Portfolio: https://carsenraehelms.com/
 📊 Kaggle: https://www.kaggle.com/carsenhelms
-
-
--->
