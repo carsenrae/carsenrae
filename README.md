@@ -9,7 +9,7 @@ NY Mental Health Expenditure Analysis (interactive map + EDA)
 SQL | Python | Pandas | Data Visualization
 
 Currently:
-I am working on a racetrack equine death analysis
+I am working on an analysis of global mental health disorder trends
 
 Pronouns:
 She/Her
